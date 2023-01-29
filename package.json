@@ -1,0 +1,26 @@
+{
+  "name": "minlibrary",
+  "version": "1.0.0",
+  "description": "This is a mini project based on reactJS and graphQL concept to build a mini library where user can play with various books and authors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmitaBhattacharya/minLibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmitaBhattacharya/minLibrary/issues"
+  },
+  "homepage": "https://github.com/AsmitaBhattacharya/minLibrary#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.9.0"
+  }
+}
